@@ -4,6 +4,6 @@ int count ;
 extern void write_extern();
  
 int main() {
-   count = 10;
+   count = 13;
    write_extern();
 }
